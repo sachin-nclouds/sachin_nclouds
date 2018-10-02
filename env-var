@@ -1,0 +1,4 @@
+SECRET_KEY_BASE="/home/vagrant/demoapp/key.txt"
+DEMOAPP_DATABASE_USER=demoapp
+DEMOAPP_DATABASE_PASSWORD=1
+
